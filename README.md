@@ -1,4 +1,4 @@
-### Angelica Wilson 👋 || Fullstack Software Engineer
+### anwilson 👋 || Fullstack Software Engineer
 
 Hello! I'm a Software Engineer that loves solving problems and helping others. I'm passionate about how technology can help bring people together, and can make a difference! I love learning new technologies, and learning how to implement them in an impactful way. I recently graduated from App Academy’s Full-Stack Software Engineering course, where I have gained experience with JS, HTML, CSS, React.js, Redux.js, AJAX, Express.js, PUG, Python, and more.
 </br>
